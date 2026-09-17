@@ -1,0 +1,9 @@
+com\fixmycampus\backend\entity\Issue.class
+com\fixmycampus\backend\exception\ResourceNotFoundException.class
+com\fixmycampus\backend\controller\IssueController.class
+com\fixmycampus\backend\exception\GlobalExceptionHandler.class
+com\fixmycampus\backend\configuration\WebConfig.class
+com\fixmycampus\backend\BackendApplication.class
+com\fixmycampus\backend\repository\IssueRepository.class
+com\fixmycampus\backend\service\IssueService.class
+com\fixmycampus\backend\service\IssueServiceImpl.class
