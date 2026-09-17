@@ -1,0 +1,42 @@
+# ==========================================
+# FixMyCampus - Git Ignore Configuration
+# ==========================================
+
+# Target / Build Output
+/backend/target/
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.rar
+
+# Logs
+*.log
+backend/logs/
+
+# IDE Configuration Files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.factorypath
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Environment & Secret Files
+.env
+.env.local
+.env.*
+application-local.properties
+
+# Scratchpad & Temporary Files
+scratch/
+tmp/
+*.tmp
